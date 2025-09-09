@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Kim Jihwan!
 
-- 🔭 I’m currently working on: **Distributed Networks and Systems Laboratory**
 - 🌱 I’m currently learning: **Spring, JPA, Linux Kernel**
 - 💬 Ask me about: **Backend, Git, and Operating Systems**
 - 📫 How to reach me: sss203800@gmail.com

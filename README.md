@@ -4,11 +4,11 @@
 
 <br/>
 
-### 👋 안녕하세요! 백엔드 개발자 지환입니다.
+### 👋 안녕하세요! 백엔드 개발자 김지환입니다.
 
 <br/>
 
-<img src="https://dino-chrome.vercel.app/api?theme=dark" alt="Chrome Dino" width="100%"/>
+<img src="https://t-rex.vercel.app/" alt="Chrome Dino" width="100%"/>
 
 <br/><br/>
 

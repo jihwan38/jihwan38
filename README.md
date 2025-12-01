@@ -1,6 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jihwan;Backend+Developer;Java+%7C+Spring+%7C+Docker)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/212257472-03e5c7c2-1e96-41cb-912f-64219760792e.gif" width="100%" style="border-radius: 10px;"/>
+
+<br/><br/>
+
+### 👋 Hi, I'm Jihwan.
+### A Backend Developer who loves Java
 
 <br/>
 

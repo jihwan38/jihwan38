@@ -11,15 +11,16 @@
 <br/><br/>
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,hibernate,linux,neovim,git&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,idea,mysql,aws,docker,githubactions,linux,neovim,git&theme=dark&perline=11)](https://skillicons.dev)
 
 <br/><br/>
 
-### 🏆 Achievements
-
+### 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jihwan38&theme=radical&mode=daily)](https://git.io/streak-stats)
-<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=jihwan38&theme=onestar&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br/><br/>
+
+### 🏆 Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=jihwan38&theme=onestar&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>

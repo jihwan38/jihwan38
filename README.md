@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7aadff,100:8a2be2&height=250&section=header&text=Hello,%20I'm%20Jihwan&fontSize=70&fontAlignY=40&desc=Backend%20Developer&descAlignY=65)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jihwan;Backend+Developer;Java+%7C+Spring+%7C+Docker)](https://git.io/typing-svg)
 
 <br/>
 

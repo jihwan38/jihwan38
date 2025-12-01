@@ -4,26 +4,19 @@
 
 <br/>
 
-### 👋 안녕하세요! 백엔드 개발자 김지환입니다.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Java+%7C+SpringBoot+%7C+JPA;Docker+%7C+Linux+%7C+Neovim;Always+Learning+Backend+Developer)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://t-rex.vercel.app/" alt="Chrome Dino" width="100%"/>
+<img src="https://media.giphy.com/media/LmqMk7r7Z4ZqZ0Zqq/giphy.gif" width="100%" style="max-width:800px">
 
 <br/><br/>
 
 ### 🛠️ Tech Stack
-
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,hibernate,linux,neovim,git&theme=dark&perline=7)](https://skillicons.dev)
 
 <br/><br/>
 
-### 📊 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jihwan38&theme=onestar&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jihwan38&theme=radical&mode=daily)](https://git.io/streak-stats)
+<img src="https://github.com/jihwan38/jihwan38/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 
 </div>

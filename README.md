@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6fa8dc,100:8a2be2&height=250&section=header&text=👋 Hello,%20I'm%20Jihwan&fontSize=70&fontAlignY=40&desc=Backend%20Developer&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:d2a8ff,100:8a2be2&height=250&section=header&text=Hello,%20I'm%20Jihwan&fontSize=70&fontAlignY=40&desc=Backend%20Developer&descAlignY=65)
 
 <br/>
 
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567049344/noticon/ndyja5zxtcwljjfpxz5q.gif" width="10%" style="max-width:800px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZtY2duMTRmdDh0cHQwcjNwNmt5am9xdG04ZHJub2Q4aWl3c3BobCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="30%" style="max-width:800px">
 
 <br/><br/>
 

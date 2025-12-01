@@ -14,6 +14,6 @@
 ---
 
 ## 📈 GitHub Stats
-[![jihwan38's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan38)](https://github.com/jihwan38/github-readme-stats)
+[![jihwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan38)]
 
 

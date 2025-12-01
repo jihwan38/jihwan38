@@ -1,8 +1,3 @@
-<div align="center">
-
-<img width="512" height="229" alt="image" src="https://github.com/user-attachments/assets/64333bed-b40e-4054-add1-4bad455d51b0" />
-
-
 <br/><br/>
 
 ### 👋 Hi, I'm Jihwan.

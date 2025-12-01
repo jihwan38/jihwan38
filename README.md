@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhmNTlrNThkZ2picmd1cmxua2lpNnZxOXJtcDl6bDAwb3FzaTZ0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" width="100%" style="border-radius: 10px;"/>
+<img width="512" height="229" alt="image" src="https://github.com/user-attachments/assets/64333bed-b40e-4054-add1-4bad455d51b0" />
+
 
 <br/><br/>
 

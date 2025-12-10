@@ -1,7 +1,7 @@
 <div align="center">
 <br/><br/>
 
-### 👋 Hi, I'm Jihwan.
+### 👋 Hi, I'm Jihwan. 
 ### A Backend Developer who loves Java
 
 <br/>

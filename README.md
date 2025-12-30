@@ -23,5 +23,6 @@
 ### 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=jihwan38&theme=onestar&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihwan38&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

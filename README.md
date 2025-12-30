@@ -18,11 +18,11 @@
 ### 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jihwan38&theme=radical&mode=daily)](https://git.io/streak-stats)
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihwan38&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/><br/>
 
 ### 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=jihwan38&theme=onestar&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihwan38&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>

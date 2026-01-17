@@ -18,21 +18,7 @@
 <br/><br/>
 
 ### 📊 GitHub Stats
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=jihwan38&theme=radical&mode=daily" alt="GitHub Streak" />
-</a>
-
-<br/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihwan38&show_icons=true&theme=radical" alt="My GitHub Stats" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jihwan38" alt="GitHub Streak" /></a>
 
 <br/><br/>
 
-### 🏆 Trophy
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jihwan38&theme=onestar&column=7&margin-w=15&margin-h=15" alt="trophy" />
-</a>
-
-</div>

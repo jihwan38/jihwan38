@@ -19,8 +19,10 @@
 
 ### 📊 GitHub Stats
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihwan38&theme=radical&mode=daily" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jihwan38&theme=radical&mode=daily" alt="GitHub Streak" />
 </a>
+
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jihwan38&show_icons=true&theme=radical" alt="My GitHub Stats" />

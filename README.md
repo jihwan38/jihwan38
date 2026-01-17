@@ -16,9 +16,3 @@
 </a>
 
 <br/><br/>
-
-### 📊 GitHub Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jihwan38" alt="GitHub Streak" /></a>
-
-<br/><br/>
-

@@ -2,7 +2,7 @@
 <br/><br/>
 
 ### 👋 Hi, I'm Jihwan. 
-### A Backend Developer who loves Java
+### A Software System Researcher who loves Codex
 
 <br/>
 

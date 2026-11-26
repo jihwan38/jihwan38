@@ -14,8 +14,9 @@ I'm interested in improving world models so AI can imagine possible situations, 
 <br/><br/>
 
 ### 🛠️ Tech Stack
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,mysql,aws,docker,githubactions,linux,neovim,git&theme=dark&perline=11" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=pytorch,py,opencv,cpp,java,docker,linux,git&theme=dark&perline=4" alt="PyTorch, Python, OpenCV, C++, Java, Docker, Linux, and Git" />
 </a>
 
 <br/><br/>

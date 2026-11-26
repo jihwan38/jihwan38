@@ -1,8 +1,11 @@
 <div align="center">
 <br/><br/>
 
-### 👋 Hi, I'm Jihwan. 
-### A Software System Researcher who loves Codex
+### 👋 Hi, I'm Jihwan Kim.
+
+I'm a software engineering undergraduate at Chonnam National University.
+
+I'm interested in improving world models so AI can imagine possible situations, predict outcomes, and learn from experience.
 
 <br/>
 
